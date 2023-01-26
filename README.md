@@ -24,3 +24,8 @@
 [![](https://visitcount.itsvg.in/api?id=AashishVerma07&icon=4&color=2)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/insolitum/count.svg" />
+</p>
