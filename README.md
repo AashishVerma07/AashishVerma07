@@ -20,16 +20,3 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
-
-![Snake animation](https://github.com/AashishVerma07/AashishVerma07/blob/output/github-contribution-grid-snake.svg)
-[![](https://visitcount.itsvg.in/api?id=AashishVerma07&icon=4&color=2)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<a href=#><img src="contributions.svg"></a>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/Aashishverma07/count.svg" />
-</p>
