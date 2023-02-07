@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Ashish Verma</h1>
+<h1 align="center">Hi, I'm Ashish Verma</h1>
 
-# 💫 About Me:
+## 💫 About Me:
 🌱 I’m currently learning Multiple stacks<br><br>👯 I’m looking to collaborate on Education Tech Projects<br><br>🤝 I’m looking for help with relocating to a new country<br><br>💬 Ask me about Java, SQL, Azure, <br><br>📫 How to reach me aashishverma0706@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/16iWQrUET-K5UVrzX5zx5STVaAJjC7BWF/view?usp=share_link
 
 
