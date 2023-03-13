@@ -1,7 +1,5 @@
-<h1 align="center">Hi, I'm Ashish Verma</h1>
-
 ## 💫 About Me:
-🌱 I’m currently learning java and Springbot<br><br>👯 I’m looking to collaborate on Education Tech Projects<br><br>🤝 I’m looking for help with relocating to a new country<br><br>💬 Ask me about Java, SQL, Azure, <br><br>📫 How to reach me aashishverma0706@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/16iWQrUET-K5UVrzX5zx5STVaAJjC7BWF/view?usp=share_link
+My name is Ashish Verma and I am a software developer.<br><br> I'm currently improving my Java, Springboot, and SQL skills and solving Leetcode problems.<br><br> I'm passionate about software development and enjoy challenging projects.Enjoy solving Leetcode problems to keep problem-solving skills sharp. <br><br> How to reach me https://linktr.ee/ashish.verma <br><br> Know about my experiences https://www.linkedin.com/in/aashish0610
 
 
 ## 🌐 Socials:
@@ -16,7 +14,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=AashishVerma07&theme=darkhub&no-frame=true&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
-
