@@ -1,5 +1,7 @@
+<h1 align="center">Hi 👋, I'm Ashish Verma</h1>
+
 ## 💫 About Me:
-✌️ My name is Ashish Verma and I am a software developer.<br><br> 💪 I'm currently improving my Java, Springboot, and SQL skills and solving Leetcode problems.<br><br> 👨‍💻 I'm passionate about software development and enjoy challenging projects.Enjoy solving Leetcode problems to keep problem-solving skills sharp. <br><br> 📫 How to reach me https://linktr.ee/ashish.verma <br><br> 📄 Know about my experiences https://www.linkedin.com/in/aashish0610
+✌️ My name is Ashish Verma and I am a **software developer**.<br><br> 💪 I'm currently improving my **Java**, **Springboot**, and **SQL** skills and solving Leetcode problems.<br><br> 👨‍💻 I'm passionate about software development and enjoy challenging projects.Enjoy solving Leetcode problems to keep problem-solving skills sharp. <br><br> 📫 How to reach me https://linktr.ee/ashish.verma <br><br> 📄 Know about my experiences https://www.linkedin.com/in/aashish0610
 
 
 ## 🌐 Socials:
